@@ -31,10 +31,6 @@ export class Banner extends Component {
                     <Ratings rating={4} count={2} />
                   </div>
                   <div className="col-md-7" >
-                    <p>Top Trusted Travel Brand</p>
-                    <p>
-                      {/* TODO: write logic for brands */}
-                    </p>
                   </div>
                 </div>
               </div>
